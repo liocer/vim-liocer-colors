@@ -83,7 +83,7 @@ let s:gb.dark3       = ['#575c61', 241]     " 102-92-84
 let s:gb.dark4       = ['#6e747a', 243]     " 124-111-100
 let s:gb.dark4_256   = ['#6e747a', 243]     " 124-111-100
 
-let s:gb.gray_245    = ['#9ea19f', 245]     " 146-131-116 dark
+let s:gb.gray_245    = ['#535556', 245]     " 146-131-116 dark
 
 let s:gb.light0_hard = ['#eaedeb', 230]     " 249-245-215 dark
 let s:gb.light0      = ['#eaedeb', 229]     " 253-244-193
